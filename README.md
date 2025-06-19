@@ -115,6 +115,23 @@ The main interface with the following elements:
 
         Back to Main — green (#4CAF50), fixed size (200x60dp), returns to main screen
 
+![Screenshot 2025-06-19 104120](https://github.com/user-attachments/assets/77f49a86-f599-4a05-99db-424babb542d1)
+![Screenshot 2025-06-19 104118](https://github.com/user-attachments/assets/18f32e92-e392-4429-a058-08207c4f0929)
+![Screenshot 2025-06-19 104102](https://github.com/user-attachments/assets/bdd7e1f0-01ff-4b5c-be57-1a44824996f2)
+![Screenshot 2025-06-19 104059](https://github.com/user-attachments/assets/6483ba8a-4130-46d0-9286-8892fff367e2)
+![Screenshot 2025-06-19 104040](https://github.com/user-attachments/assets/f7a53755-435d-45d7-887e-c6a39d21e4ed)
+![Screenshot 2025-06-19 104038](https://github.com/user-attachments/assets/12a4a705-17cc-470d-a291-882f0d62b69c)
+![Screenshot 2025-06-19 103929](https://github.com/user-attachments/assets/c4e7e357-8325-468a-9efa-95fddedb4333)
+![Screenshot 2025-06-19 103925](https://github.com/user-attachments/assets/8e407fa4-c683-4624-af7f-98e17da6488f)
+![Screenshot 2025-06-19 103740](https://github.com/user-attachments/assets/d2fca85a-381c-4740-a0c5-3431c67bbf2a)
+![Screenshot 2025-06-19 103705](https://github.com/user-attachments/assets/afcb1998-693c-4b6d-a009-c2bc90017746)
+![Screenshot 2025-06-19 103649](https://github.com/user-attachments/assets/1666d65a-877f-4591-beec-e236e65b8de1)
+![Screenshot 2025-06-19 103623](https://github.com/user-attachments/assets/1fe88e1a-c3d9-4bfe-b46b-76fc084a9244)
+![Screenshot 2025-06-19 103620](https://github.com/user-attachments/assets/441b59d5-c433-49c5-940f-7f55695bba64)
+![Screenshot 2025-06-19 103554](https://github.com/user-attachments/assets/a56ca0c9-754e-4cb3-93ed-a02f52477095)
+![Screenshot 2025-06-19 103541](https://github.com/user-attachments/assets/13dc6357-c170-44f4-9f41-3f11af57ec92)
+![Screenshot 2025-06-19 103505](https://github.com/user-attachments/assets/bd7afbf2-7624-4776-897b-4fcfe637b956)
+![Screenshot 2025-06-19 103437](https://github.com/user-attachments/assets/3688a8ad-deb3-4b61-8976-bee9d804d105)
 
 
 Reference list 
@@ -135,6 +152,8 @@ Reference list
 //  Intent data passing reference:
     //  IMAD Module Manual - Page 137
     //  https://advtechonline.sharepoint.com/.../IMAD5112_MM.docx
+
+    
     
 
 
