@@ -130,7 +130,6 @@ The main interface with the following elements:
 ![Screenshot 2025-06-19 103620](https://github.com/user-attachments/assets/441b59d5-c433-49c5-940f-7f55695bba64)
 ![Screenshot 2025-06-19 103554](https://github.com/user-attachments/assets/a56ca0c9-754e-4cb3-93ed-a02f52477095)
 ![Screenshot 2025-06-19 103541](https://github.com/user-attachments/assets/13dc6357-c170-44f4-9f41-3f11af57ec92)
-![Screenshot 2025-06-19 103505](https://github.com/user-attachments/assets/bd7afbf2-7624-4776-897b-4fcfe637b956)
 ![Screenshot 2025-06-19 103437](https://github.com/user-attachments/assets/3688a8ad-deb3-4b61-8976-bee9d804d105)
 
 
