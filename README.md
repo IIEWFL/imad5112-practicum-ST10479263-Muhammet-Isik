@@ -7,7 +7,6 @@ Module name :  Introduction to mobile Application development
 Submission Date: 19.06.2025  
 https://github.com/IIEWFL/imad5112-practicum-ST10479263-Muhammet-Isik
 
-
  App Overview
 
 Music Playlist Manager is a basic Android application designed for managing music playlists. The app features a clean and intuitive button-based menu interface, allowing users to add songs, view playlists, learn about the app, or exit.
