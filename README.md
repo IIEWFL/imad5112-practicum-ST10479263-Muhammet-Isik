@@ -133,6 +133,7 @@ The main interface with the following elements:
 
 
 Reference list 
+
 // Logging best practices reference:
 //  Android Developers - Logging
 //  https://developer.android.com/reference/android/util/Log
